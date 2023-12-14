@@ -1,0 +1,33 @@
+{
+  "name": "placementcell",
+  "version": "1.0.0",
+  "description": "## how to see working  * download zip file from the top  * unzip into your system  * open the file in VS code  * open Terminal and run command __npm i__  * run command __nodemon index.js__",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita samant",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "connect-mongo": "^4.6.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.3",
+    "json2csv": "^5.0.7",
+    "mongodb": "^4.13.0",
+    "mongoose": "^6.8.4",
+    "node": "^19.4.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "placementcell"
+  }
+}
